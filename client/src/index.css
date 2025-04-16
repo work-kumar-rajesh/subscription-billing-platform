@@ -1,0 +1,6 @@
+/* We added inline comments here to disable any linter warnings, and it contains: */
+/* stylelint-disable at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* stylelint-enable at-rule-no-unknown */
